@@ -1,4 +1,4 @@
 # demo
 first git repository
 <br>
-Author-Palkin
+Author-Palkin(Wwbdev)
